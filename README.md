@@ -41,7 +41,7 @@ Interested in contributing? Improving documentation? Adding more example? Check 
 As stated in the [License file](https://github.com/ananthdurai/airflow-training/blob/master/LICENSE) all lecture slides are provided under Creative Commons BY-NC 4.0. The exercise code is released under an MIT license.
 
 Author:
- - [Ananth Packkildurai](https://github.com/ananthdurai/airflow-training/blob/master/author.md)
+ - [NEO NITIN](https://github.com/NEONITIN3/Apache-Airflow-Training/tree/main/airflow-training-master)
 
 ## Credit
 - [Airflow documentation](https://airflow.apache.org/)
